@@ -1,0 +1,33 @@
+body {
+    height: 100vh;
+    background-color: hsl(220, 15%, 55%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.sabah {
+    width: 17%;
+    padding: 1em;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1.3rem;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    border-radius: 0.75rem;
+}
+
+section {
+    width: 80%;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
